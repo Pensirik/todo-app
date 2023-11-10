@@ -1,5 +1,5 @@
 
-# Getting Started Todo App
+# How to get started on the Todo App
 
 ###  Backend
  ```bash
