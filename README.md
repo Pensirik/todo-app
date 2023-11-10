@@ -8,7 +8,7 @@
 
 ```
 ## result
-![alt text](https://github.com/Pensirik/todo-app/example/backend.png?raw=true)
+![alt text](https://github.com/Pensirik/todo-app/blob/main/example/backend.png?raw=true)
 
 ###  Frontend
  ```bash
@@ -17,4 +17,4 @@
 
 ```
 ## result
-![alt text](https://github.com/Pensirik/todo-app/example/frontend.png?raw=true)
+![alt text](https://github.com/Pensirik/todo-app/blob/main/example/frontend.png?raw=true)
